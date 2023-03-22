@@ -1,0 +1,8 @@
+<servlet>
+    <servlet-name>MyServlet</servlet-name>
+    <servlet-class>WASProject.idea.MyServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>MyServlet</servlet-name>
+<url-pattern>/myservlet</url-pattern>
+</servlet-mapping>

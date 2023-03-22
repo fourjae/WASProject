@@ -1,0 +1,50 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8­ûÇÖì0
+€
+java:S1488u"cImmediately return this expression instead of assigning it to the temporary variable "servletName".(ı¬¾Ü8®ûÇÖì0
+€
+java:S1488†"bImmediately return this expression instead of assigning it to the temporary variable "requestUrl".(ëİèü8®ûÇÖì0
+D
+java:S2189 ""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ÁûÇÖì0
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(›á‘Ş8ÁûÇÖì0
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ö¿¼íûÿÿÿÿ8ÁûÇÖì0
+£
+java:S1186g"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‘ÅôÃşÿÿÿÿ8ìƒÍÖì0
+£
+java:S1186{"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.( –‡şÿÿÿÿ8ìƒÍÖì0
+\
+java:S1118
+":Add a private constructor to hide the implicit public one.(ñşêåùÿÿÿÿ8ÄûÇÖì0
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å¸ŞĞ8ÇûÇÖì0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(£ö8ÉûÇÖì0
+D
+java:S2440-"'Remove this instantiation of "GetInfo".(­Ø¶8ËûÇÖì0
+O
+java:S1874>"3Remove this use of "newInstance"; it is deprecated.(Äˆª 8ÍûÇÖì0
+R
+java:S2209@"5Change this instance-reference to a static reference.(ıôõÆ8ÿƒÍÖì0
+W
+java:S2209B"5Change this instance-reference to a static reference.(ÒÄùÈùÿÿÿÿ8œ›ÊÖì0
+R
+java:S2209D"5Change this instance-reference to a static reference.(à“á8œ›ÊÖì0
+R
+java:S2209F"5Change this instance-reference to a static reference.(Ï‰£…8„ÍÖì0
+W
+java:S2209K"5Change this instance-reference to a static reference.(«Å·üÿÿÿÿ8„ÍÖì0
+Q
+java:S2209O"5Change this instance-reference to a static reference.(âêÆf8„ÍÖì0
+]	java:S125V"<This block of commented-out lines of code should be removed.(¡ıÑ»ıÿÿÿÿ8¥÷äÖì0
+L
+java:S2093,"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ÏûÇÖì0
+
+java:S1130g"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(‘ÅôÃşÿÿÿÿ8„„ÍÖì0
+U
+java:S1172g"3Remove this unused method parameter "clientSocket".(‘ÅôÃşÿÿÿÿ8„„ÍÖì0
+
+java:S1130{"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.( –‡şÿÿÿÿ8‡„ÍÖì0
+c
+java:S1172{"ARemove these unused method parameters "clientSocket", "response".( –‡şÿÿÿÿ8‰„ÍÖì0
+R
+java:S1144g"0Remove this unused private "readRequest" method.(‘ÅôÃşÿÿÿÿ8‹„ÍÖì0
+T
+java:S1144{"2Remove this unused private "writeResponse" method.( –‡şÿÿÿÿ8‹„ÍÖì0
