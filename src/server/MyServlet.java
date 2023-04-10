@@ -9,13 +9,13 @@ import java.util.*;
 
 public class MyServlet {
     private static final int portNumber = 80;
-    private static final String webRoot = "C:\\Users\\1172543\\Desktop\\oAuth\\WASProject\\src";
+    private static final String webRoot = "/Users/hwang-yeongha/Desktop/WASProject/WASProject/src";
     private static final Properties servletMappings = new Properties();
     private static final FileInputStream fis;
 
     static {
         try {
-            fis = new FileInputStream(webRoot + "\\server.properties");
+            fis = new FileInputStream(webRoot + "/server.properties");
             servletMappings.load(fis);
         } catch (IOException e) {
             throw new RuntimeException(e);
