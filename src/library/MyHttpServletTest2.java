@@ -21,7 +21,7 @@ public class MyHttpServletTest2 implements Servlet {
 
     public void service(MyServletRequest request, MyServletResponse response) throws ServletException, IOException {
         String method = request.getMethod();
-        if(method.equals("GET")) {
+        if("GET".equals(method)) {
             doGet(request, response);
         }
         else if("POST".equals(method)){
